@@ -53,3 +53,18 @@ h2 {
 .grey {
     color: grey;
 }
+
+.contact {
+    margin-top: 20px;
+    background-color: white;
+    text-align: start;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.contact-form {
+    padding-left: 350px;
+    padding-right: 350px;
+}
