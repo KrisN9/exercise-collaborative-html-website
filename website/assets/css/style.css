@@ -26,9 +26,30 @@ h2 {
 .first-heading {
     margin-top: 80px;
     background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.heading-image {
+    background-image: url("../img/1.jpg");
+    background-repeat: no-repeat;
+    border-radius: 50%;
 }
 
 .second-heading {
     margin-top: 20px;
     background-color: white;
+}
+
+.portfolio {
+    background-color: white;
+    text-align: start;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.grey {
+    color: grey;
 }
