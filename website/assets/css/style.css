@@ -1,3 +1,37 @@
 body{
     background: #BDBDBD;
 }
+
+.jumbotron {
+    height: 500px;
+}
+
+.jumbotron-image {
+    background-image: url("../img/bg.jpg");
+    background-size: initial;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    font-size: 120px;
+    background-color: white;
+    margin-top: 80px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 70px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.first-heading {
+    margin-top: 40px;
+    background-color: white;
+}
+
+.second-heading {
+    margin-top: 20px;
+    background-color: white;
+}
