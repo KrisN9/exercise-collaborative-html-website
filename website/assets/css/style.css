@@ -31,19 +31,35 @@ h2 {
 .first-heading-text {
     margin-top: 80px;
     background-color: white;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 120px;
+    padding-bottom: 80px;
 }
 
 .first-heading-image {
     background-image: url("../img/1.jpg");
     border-radius: 50%;
-    height: 300px;
-    width: 300px;
+    height: 500px;
+    width: 500px;
     background-repeat: no-repeat;
 }
 
-.second-heading {
+.second-heading-text {
     margin-top: 20px;
     background-color: white;
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+}
+
+.second-heading-image {
+    background-image: url("../img/2.jpg");
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+    background-repeat: no-repeat;
 }
 
 .portfolio {
