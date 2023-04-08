@@ -1,5 +1,6 @@
 body{
     background: #BDBDBD;
+    margin: 0;
 }
 
 .jumbotron {
@@ -23,22 +24,21 @@ h2 {
     margin-top: 20px;
 }
 
-.first-heading {
-    margin-top: 80px;
-    background-color: white;
-    padding-left: 80px;
-    padding-right: 80px;
+.section {
+    display: inline-block;
 }
 
-.heading-image {
+.first-heading-text {
+    margin-top: 80px;
+    background-color: white;
+}
+
+.first-heading-image {
     background-image: url("../img/1.jpg");
-    padding: 50px;
-    position: relative;
     border-radius: 50%;
-    height: 600px;
-    width: 600px;
+    height: 300px;
+    width: 300px;
     background-repeat: no-repeat;
-    text-align: right;
 }
 
 .second-heading {
