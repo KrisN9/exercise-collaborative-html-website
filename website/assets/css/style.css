@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: white;
     margin: 0;
 }
 
@@ -30,6 +30,7 @@ h2 {
 
 .first-heading-text {
     margin-top: 80px;
+    border-top: 5px;
     background-color: white;
     padding-top: 80px;
     padding-left: 80px;
@@ -63,6 +64,8 @@ h2 {
 }
 
 .portfolio {
+    margin-top: 20px;
+    margin-bottom: 20px;
     background-color: white;
     text-align: start;
     padding-top: 20px;
@@ -75,7 +78,7 @@ h2 {
     color: grey;
 }
 
-.contact {
+.contact-text {
     margin-top: 20px;
     background-color: white;
     text-align: start;
@@ -85,7 +88,15 @@ h2 {
     padding-right: 80px;
 }
 
+.square-form {
+    outline: 2px solid grey;
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
 .contact-form {
+    margin-top: 20px;
     padding-left: 350px;
     padding-right: 350px;
 }
